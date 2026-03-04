@@ -8,11 +8,11 @@
 }
 .header{
   flex: 15%;
-   background-color: gray;
+   background-color: pink;
 }
 .menu{
  flex: 5%;
-   background-color: lightgray;
+   background-color: lightpink;
 }
 .menu a{
    padding: 15px 20px;
@@ -35,5 +35,5 @@
       
 .footer{
  flex: 10%;
-   background-color: gray;
+   background-color: pink;
 }
