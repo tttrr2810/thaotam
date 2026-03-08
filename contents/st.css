@@ -1,3 +1,5 @@
+
+      
 *{ 
    font-family: Arial;
 }
@@ -8,11 +10,13 @@
 }
 .header{
   flex: 15%;
-   background-color: pink;
+   background-color: gray;
+   background: url("images/banner.png") center / 100%;
+   aspect-ratio: 6/1;
 }
 .menu{
  flex: 5%;
-   background-color: lightpink;
+   background-color: lightgray;
 }
 .menu a{
    padding: 15px 20px;
@@ -35,5 +39,22 @@
       
 .footer{
  flex: 10%;
-   background-color: pink;
+   background-color: gray;
 }
+
+.f1 {
+  color: red;
+margin-top: 18pt;
+margin-bottom: 12pt;
+Font-size: 20px;
+font-weight: bold;
+font-family: Arial;
+}
+.f2
+{
+color: black;
+margin-top: 6pt;
+margin-bottom: 6pt;
+font-size: 15px;
+font-style: normal;
+font-family: Arial;
